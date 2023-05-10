@@ -1,0 +1,15 @@
+PRIMER PASO:
+Descargar Python
+
+SEGUNDO PASO:
+Una vez descargado python, entramos al cmd y colocamos el  siguiente comando "pip install pygame"
+Nota: No olvide quitar las comillas del comando
+
+TERCER PASO:
+Abri el cmd y entrar a la ruta donde se encuentra el archivo "mp.py"
+Nota: Utilizar cd y dir para navegar en el cmd 
+
+CUARTO  PASO:
+Una vez que haya ingresado a la ruta correspondiente, escribe el siguiente comando para ejecutar la simulación 
+"start mp.py"
+Nota: No olvide quitar las comillas del comando
